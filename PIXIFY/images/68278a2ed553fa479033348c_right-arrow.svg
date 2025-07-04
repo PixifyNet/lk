@@ -1,0 +1,32 @@
+<svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="15" fill="#C3C3C3"/>
+<rect id="Rectangle 14" x="-2799" y="-9233" width="16577" height="11074" stroke="black" stroke-width="6"/>
+<g id="Homepage / Desktop" clip-path="url(#clip0_5014_2444)">
+<rect width="1440" height="8299" transform="translate(-1083 -7991)" fill="#F8F8F2"/>
+<g id="Footer" clip-path="url(#clip1_5014_2444)">
+<g id="Footer / Desktop" clip-path="url(#clip2_5014_2444)">
+<rect id="Rectangle 7" x="-1083" y="-391" width="1440" height="616" fill="black"/>
+<g id="Frame 120">
+<g id="Column">
+<g id="Input Fields with Labels">
+<g id="Frame 11">
+<path id="Vector" d="M11.3551 10.8275C9.98804 12.1722 8.62103 13.5192 7.6796 14.4428L6.90206 13.6898C7.78555 12.8241 8.81053 11.8147 9.8656 10.7753C10.8237 9.83049 11.8075 8.86232 12.7344 7.9532L12.9405 7.75155L0.534694 7.75247L0.53478 6.68299L12.9406 6.68208L6.90413 0.754758L7.68401 -0.00729325L15.0294 7.21777C14.088 8.14137 12.7232 9.48611 11.3573 10.8297L11.3551 10.8275Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_5014_2444">
+<rect width="1440" height="8299" fill="white" transform="translate(-1083 -7991)"/>
+</clipPath>
+<clipPath id="clip1_5014_2444">
+<rect width="1440" height="616" fill="white" transform="translate(-1083 -391)"/>
+</clipPath>
+<clipPath id="clip2_5014_2444">
+<rect width="1440" height="616" fill="white" transform="translate(-1083 -391)"/>
+</clipPath>
+</defs>
+</svg>
